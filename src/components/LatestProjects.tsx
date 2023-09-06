@@ -1,8 +1,24 @@
 import React from 'react'
+import ProjectCard from './ProjectCard'
+import { Button } from './ui/button'
 
 const LatestProjects = () => {
   return (
-    <div>LatestProjects</div>
+    <div className='p-14 bg-gray-200'>
+      <div className='flex justify-center'>
+        <h2 className="scroll-m-20 font-bold text-4xl pb-10 text-gray-800 tracking-wide leading-10 transition-colors first:mt-0">
+            Latest Projects
+        </h2>
+      </div>
+      <div className='grid grid-cols-3 gap-3'>
+        <ProjectCard />
+        <ProjectCard />
+        <ProjectCard />
+      </div>
+      <div className='flex justify-center p-14'>
+            <Button variant='outline'>LEARN MORE</Button>
+      </div>
+    </div>
   )
 }
 
