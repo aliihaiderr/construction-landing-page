@@ -17,7 +17,7 @@ const About = () => {
                 <p className="leading-7 [&:not(:first-child)]:mt-2 mb-6 text-gray-200 font-normal tracking-wide">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia optio sapiente iusto dolore harum! Repellat magni, optio eaque maxime recusandae voluptatem earum consectetur laboriosam quia vel tempora tempore velit?
                 </p>
-                <Button>LEARN MORE</Button>
+                <Button variant="outlineorng">ABOUT US</Button>
               </div>
             </div>
         </div>
@@ -50,7 +50,7 @@ const About = () => {
             </div>
             <div className='bg-gray-300 p-5 flex-auto'>
               <div className='flex justify-center'>
-                <Button variant="outline">LEARN MORE</Button>
+                <Button variant="outline">ONLINE FORM</Button>
               </div>
             </div>
         </div>
