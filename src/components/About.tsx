@@ -27,7 +27,7 @@ const About = () => {
       <div className='w-3/5 bg-gray-200'>
         <div className='pt-12 pl-24 pr-16 flex flex-col'>
           <h2 className="scroll-m-20 pb-2 font-bold text-4xl w-3/4 text-gray-800 tracking-wide leading-10 transition-colors first:mt-0">
-            We Value Your Trust & Build Your Dream Since 2013.
+            We Value Your Trust & Build Your Dream Since 2015.
           </h2>
           <div className='flex gap-8 mt-16'>
             <div>
