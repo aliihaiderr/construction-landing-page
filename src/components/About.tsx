@@ -9,7 +9,7 @@ const About = () => {
       {/* Left side Panel */}
       <div className='w-2/5 p-12 flex flex-col items-baseline bg-gray-800'>
         <div className='pt-12 pl-8 pr-8 flex flex-col'>
-            <h2 className="scroll-m-20 pb-2 font-bold text-4xl w-3/4 text-gray-200 tracking-wide leading-10 transition-colors first:mt-0">
+            <h2 className="scroll-m-20 pb-2 font-bold text-4xl text-gray-200 tracking-wide leading-10 transition-colors first:mt-0">
               We,ve Been Building For Over 10 Years.
             </h2>
             <div className='flex gap-8 mt-12'>
@@ -24,7 +24,7 @@ const About = () => {
       </div>
 
       {/* Right Side Panel  */}
-      <div className='w-3/5 bg-gray-200'>
+      <div className='w-3/5'>
         <div className='pt-12 pl-24 pr-16 flex flex-col'>
           <h2 className="scroll-m-20 pb-2 font-bold text-4xl w-3/4 text-gray-800 tracking-wide leading-10 transition-colors first:mt-0">
             We Value Your Trust & Build Your Dream Since 2015.
