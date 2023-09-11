@@ -49,7 +49,7 @@ const About = () => {
               <h3 className='scroll-m-20 font-normal text-sm tracking-wide leading-6 transition-colors first:mt-0'>+92-323-6854-958</h3>
             </div>
             <div className='bg-gray-300 p-5 flex-auto'>
-              <div className='flex justify-center'>
+              <div className='flex'>
                 <Button variant="outline">ONLINE FORM</Button>
               </div>
             </div>
