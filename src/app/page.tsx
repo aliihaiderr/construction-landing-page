@@ -1,18 +1,18 @@
 import HeroSection from "@/components/HeroSection"
-import Detail from "@/components/Detail"
+import Features from "@/components/Features"
 import LatestProjects from "@/components/LatestProjects"
 import About from "@/components/About"
-import Qualities from "@/components/Qualities"
+import Testimonials from "@/components/Testimonials"
 import Contact from "@/components/Contact"
 
 export default function Home() {
   return (
     <>
       <HeroSection />
-      <Detail />
+      <Features />
       <LatestProjects />
       <About />
-      <Qualities />
+      <Testimonials />
       <Contact />
     </>
   )
