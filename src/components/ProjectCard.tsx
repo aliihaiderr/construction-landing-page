@@ -9,7 +9,7 @@ const ProjectCard = () => {
         <div>
             <Image src={'/assets/bg-detail.jpg'} alt='projectImg' width={500} height={700} />
         </div>
-        <div className='mt-4 border p-6 border-gray-400 flex flex-col space-y-4'>
+        <div className='mt-4 border p-6 border-gray-300 flex flex-col space-y-4'>
             <h4 className="scroll-m-20 text-lg font-semibold tracking-wide">
                 Project Title
             </h4>
