@@ -14,7 +14,7 @@ const About = () => {
             </h2>
             <div className='flex gap-8 mt-12'>
               <div>
-                <p className="leading-7 [&:not(:first-child)]:mt-2 mb-6 text-gray-200 font-normal tracking-wide">
+                <p className="leading-7 [&:not(:first-child)]:mt-2 mb-6 text-gray-200 font-light text-sm tracking-wide">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia optio sapiente iusto dolore harum! Repellat magni, optio eaque maxime recusandae voluptatem earum consectetur laboriosam quia vel tempora tempore velit?
                 </p>
                 <Button variant="outlineorng">ABOUT US</Button>
