@@ -34,7 +34,7 @@ const Contact = () => {
             <span className='hover:text-red-600 cursor-pointer'><BiLogoYoutube /></span>
             <span className='hover:text-blue-600 cursor-pointer'><BiLogoFacebook /></span>
           </div>
-          <div className='space-y-10 p-10 flex flex-col items-baseline'>
+          <div className='space-y-10 p-12 flex flex-col items-baseline'>
             <h2 className="scroll-m-20 pb-2 font-bold text-3xl w-3/4 text-gray-800 tracking-wider leading-10 transition-colors first:mt-0">
               Reach Us
             </h2>
