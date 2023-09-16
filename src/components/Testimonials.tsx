@@ -22,7 +22,6 @@ const Testimonials = () => {
             <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
             <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
             <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
-            <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
         </div>
       </div>
     </>
