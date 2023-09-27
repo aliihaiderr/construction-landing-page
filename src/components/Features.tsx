@@ -13,7 +13,7 @@ const Features = () => {
       <div className='w-3/5'>
         <div className='pt-12 pl-24 pr-16 flex flex-col'>
           <h2 className="scroll-m-20 pb-2 font-bold text-4xl w-3/4 text-gray-800 tracking-wide leading-10 transition-colors first:mt-0">
-            We Value Your Trust & Build Your Dream Since 2015.
+            We Value Your Trust & Build Your Dream Since 2014.
           </h2>
           <div className='flex gap-8 mt-16'>
             <div>
@@ -30,13 +30,13 @@ const Features = () => {
           </div>
         </div>
         <div className='flex mt-[163px]'>
-            <div className='bg-[#F5AA0E] text-gray-800 p-5 flex-auto'>
-              <h2 className="scroll-m-20 pb-2 font-bold text-3xl tracking-wide leading-10 transition-colors first:mt-0">10</h2>
-              <h3 className='scroll-m-20 font-normal text-sm tracking-wide leading-6 transition-colors first:mt-0'>YEARS ESTABLISHED</h3>
+            <div className='flex flex-col justify-center items-center bg-[#F5AA0E] text-gray-800 p-5 flex-auto'>
+              <h2 className="scroll-m-20 pb-2 font-bold text-3xl tracking-wide leading-10 transition-colors first:mt-0">09</h2>
+              <h3 className='scroll-m-20 font-medium text-xs tracking-wide leading-6 transition-colors first:mt-0'>YEARS ESTABLISHED</h3>
             </div>
-            <div className='bg-gray-800 text-gray-300 p-5 flex-auto'>
-              <h2 className="scroll-m-20 pb-2 font-bold text-3xl tracking-wider leading-10 transition-colors first:mt-0">250</h2>
-              <h3 className='scroll-m-20 font-normal text-sm tracking-wider leading-6 transition-colors first:mt-0'>PROJECTS</h3>
+            <div className='flex flex-col justify-center items-center bg-black text-gray-300 p-5 flex-auto'>
+              <h2 className="scroll-m-20 pb-2 font-bold text-3xl tracking-wider leading-10 transition-colors first:mt-0">175+</h2>
+              <h3 className='scroll-m-20 font-font-medium text-xs tracking-wider leading-6 transition-colors first:mt-0'>PROJECTS</h3>
             </div>
         </div>
       </div>
