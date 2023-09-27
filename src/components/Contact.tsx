@@ -29,29 +29,29 @@ const Contact = () => {
         </div>
 
         {/* Right side Panel */}
-        <div className='w-1/3 flex flex-col items-baseline'>
-          <div className='flex w-full p-4 justify-center text-3xl bg-gray-800 text-white gap-5'>
+        <div className='flex flex-col w-1/3'>
+          <div className='flex justify-center text-3xl w-full p-5 bg-gray-800 text-white gap-5'>
             <span className='hover:text-red-600 cursor-pointer'><BiLogoYoutube /></span>
             <span className='hover:text-blue-600 cursor-pointer'><BiLogoFacebook /></span>
           </div>
-          <div className='space-y-10 p-12 flex flex-col items-baseline'>
-            <h2 className="scroll-m-20 pb-2 font-bold text-3xl w-3/4 text-gray-800 tracking-wider leading-10 transition-colors first:mt-0">
+          <div className='flex flex-col gap-4 mt-20 p-24 text-gray-500'>
+            <h2 className="scroll-m-20 font-bold text-3xl pb-4 text-gray-800 tracking-wider leading-10 transition-colors first:mt-0">
               Reach Us
             </h2>
-            <div className='flex items-center font-medium tracking-wide gap-5 cursor-default'>
+            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
               <span><BiSolidMap /></span>
               <p>Main Market Phase II Ajwa City Sahiwal.</p>
             </div>
-            <div className='flex items-center font-medium tracking-wide gap-5 cursor-default'>
-              <BiSolidMap />
+            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+              <span><BiSolidMap /></span>
               <p>20 K.M. Paijan Stop, Raiwind Road Lahore.</p>
             </div>
-            <div className='flex items-center font-medium tracking-wide gap-5 cursor-default'>
-              <BiSolidPhone />
-              <p>+92-323-685-4958</p><br/>
+            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+              <span><BiSolidPhone /></span>
+              <p>+92 323-6854958</p><br/>
             </div>
-            <div className='flex items-center font-medium tracking-wide gap-5 cursor-default'>
-              <MdEmail/>
+            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+              <span><MdEmail/></span>
               <p>babafaridconstructiondevel4007@gmail.com</p>
             </div>
             <div className='flex text-4xl gap-4'>
