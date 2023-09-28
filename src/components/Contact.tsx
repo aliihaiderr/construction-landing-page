@@ -13,7 +13,7 @@ const Contact = () => {
 
         {/* Left Side Panel  pt-12 pl-24 pr-16 */}
         <div className='w-2/3 bg-[#F5AA0E]'>
-          <div className='flex flex-col justify-center p-24 space-y-8'>
+          <div className='flex flex-col justify-center p-36 space-y-8'>
             <h2 className="scroll-m-20 pb-2 font-bold text-3xl w-3/4 text-gray-800 tracking-wider leading-10 transition-colors first:mt-0">
               Get In Touch
             </h2>
