@@ -18,7 +18,8 @@ const Testimonials = () => {
           <ClientCard />
           <ClientCard />
         </div>
-        <div className='flex justify-center p-14 gap-20'>
+        <div className='flex justify-center p-14 gap-28'>
+            <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
             <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
             <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
             <Image src="/assets/ajwalogo.png" width={100} height={100} alt='logo' />
