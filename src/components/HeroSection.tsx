@@ -37,7 +37,7 @@ const HeroSection = () => {
             <h4 className="scroll-m-20 text-lg font-bold tracking-wide">
               Design & Build
             </h4>
-            <p className="leading-4 [&:not(:first-child)]:mt-3 text-sm text-white">
+            <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
             </p>
           </div>
@@ -53,7 +53,7 @@ const HeroSection = () => {
             <h4 className="scroll-m-20 text-lg font-bold tracking-wide">
               Foundation Work
             </h4>
-            <p className="leading-4 [&:not(:first-child)]:mt-3 text-sm text-white">
+            <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
             </p>
           </div>
@@ -69,7 +69,7 @@ const HeroSection = () => {
             <h4 className="scroll-m-20 text-lg font-bold tracking-wide">
               Renovation
             </h4>
-            <p className="leading-4 [&:not(:first-child)]:mt-3 text-sm text-white">
+            <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
             </p>
           </div>
@@ -85,7 +85,7 @@ const HeroSection = () => {
             <h4 className="scroll-m-20 text-lg font-bold tracking-wide">
               Interior & Flooring
             </h4>
-            <p className="leading-4 [&:not(:first-child)]:mt-3 text-sm text-white">
+            <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
             </p>
           </div>
