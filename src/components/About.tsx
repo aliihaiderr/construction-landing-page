@@ -34,7 +34,7 @@ const About = () => {
             <Image src='/assets/ceo.png' width={320} height={320}  alt='ceo-image' className="object-cover w-full h-full"/>
           </div>
           <div className='mt-8'>
-            <h2 className="scroll-m-20 font-semibold text-2xl text-white tracking-wider leading-8 transition-colors first:mt-0"><span className='text-[#F5AA0E]'>C.E.O </span>CH SHAHID ABBAS ARAIN</h2>
+            <h2 className="scroll-m-20 font-semibold text-2xl text-white tracking-wide leading-8 transition-colors first:mt-0"><span className='text-[#F5AA0E]'>C.E.O </span>CH SHAHID ABBAS ARAIN</h2>
           </div>
         </div>
         <div className='flex mt-[163px]'>
