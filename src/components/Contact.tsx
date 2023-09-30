@@ -38,19 +38,19 @@ const Contact = () => {
             <h2 className="scroll-m-20 font-bold text-3xl pb-4 text-gray-800 tracking-wider leading-10 transition-colors first:mt-0">
               Reach Us
             </h2>
-            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+            <div className='flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default'>
               <span><BiSolidMap /></span>
               <p>Main Market Phase II Ajwa City Sahiwal.</p>
             </div>
-            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+            <div className='flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default'>
               <span><BiSolidMap /></span>
               <p>20 K.M. Paijan Stop, Raiwind Road Lahore.</p>
             </div>
-            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+            <div className='flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default'>
               <span><BiSolidPhone /></span>
               <p>+92 323-6854958</p><br/>
             </div>
-            <div className='flex items-center gap-x-3 font-medium text-sm tracking-wide cursor-default'>
+            <div className='flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default'>
               <span><MdEmail/></span>
               <p>babafaridconstructiondevel4007@gmail.com</p>
             </div>
