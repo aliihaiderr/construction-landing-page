@@ -8,12 +8,12 @@ import {MdFoundation} from "react-icons/md"
 
 const HeroSection = () => {
   return (
-    <div className='flex h-screen'>
+    <div className='md:flex h-screen'>
 
       {/* Left side Panel */}
       <div className='w-2/3 p-48 flex flex-col items-baseline bg-hero-image bg-cover'>
         <h2 className="scroll-m-20 pb-2 font-bold tracking-wide leading-8 transition-colors first:mt-0">
-          <span className='text-6xl text-[#F5AA0E]'>Baba Fareed</span> <br/> <span className='text-3xl text-white'> Construction & Developers Company</span>
+          <span className='text-6xl text-[#F5AA0E]'>Baba Fareed</span> <br/> <span className='md:text-3xl text-white'> Construction & Developers Company</span>
         </h2>
         <p className="leading-7 [&:not(:first-child)]:mt-2 mb-6 text-gray-200 font-normal tracking-wide">
           Transforming Visions into Reality, Your Trusted Partner in Construction Excellence.
