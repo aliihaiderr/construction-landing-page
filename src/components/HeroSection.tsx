@@ -38,7 +38,7 @@ const HeroSection = () => {
               Design & Build
             </h4>
             <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
+            We excel in design and build projects, delivering integrated solutions & construction execution.
             </p>
           </div>
         </div>
@@ -54,7 +54,7 @@ const HeroSection = () => {
               Foundation Work
             </h4>
             <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
+            our construction company expertise shines through, ensuring strong, stable, and enduring bases for every project we undertake.
             </p>
           </div>
         </div>
@@ -69,15 +69,15 @@ const HeroSection = () => {
             <h4 className="scroll-m-20 text-lg font-bold tracking-wide">
               Renovation
             </h4>
-            <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
+            <p className="leading-5 [&:not(:first-child)]:mt-3 text-sm text-white"> 
+              Renovation is where our construction company craftsmanship and attention to detail truly transform spaces, breathing new life into existing structures and exceeding our clients expectations.
             </p>
           </div>
         </div>
 
         {/* Interior & Flooring */}
 
-        <div className='flex ml-6 gap-8 mt-10'>
+        {/* <div className='flex ml-6 gap-8 mt-10'>
           <div className='text-6xl font-normal text-white'>
             <LuLampFloor />
           </div>
@@ -89,7 +89,7 @@ const HeroSection = () => {
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam.
             </p>
           </div>
-        </div>
+        </div> */}
 
       </div>
     </div>
