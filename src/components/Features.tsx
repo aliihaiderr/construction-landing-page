@@ -18,12 +18,14 @@ const Features = () => {
           <div className='flex gap-8 mt-16'>
             <div>
               <p className="leading-7 [&:not(:first-child)]:mt-2 mb-6 text-gray-700 font-normal tracking-wide">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia optio sapiente iusto dolore harum! Repellat magni, optio eaque maxime recusandae voluptatem earum consectetur laboriosam quia vel tempora tempore velit?
+                We deliver value over mony and make trusted clients.We Value Your Trust & Build Your Dreams.
+                We deliver value over mony and make trusted clients.We Value Your Trust & Build Your Dreams.
               </p>
             </div>
             <div>
               <p className="leading-7 [&:not(:first-child)]:mt-2 mb-6 text-gray-700 font-normal tracking-wide">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quia optio sapiente iusto dolore harum! Repellat magni, optio eaque maxime recusandae voluptatem earum consectetur laboriosam quia vel tempora tempore velit?
+              We deliver value over mony and make trusted clients.We Value Your Trust & Build Your Dreams.
+              We deliver value over mony and make trusted clients.We Value Your Trust & Build Your Dreams.
               </p>
               <Button variant="outline">LEARN MORE</Button>
             </div>
