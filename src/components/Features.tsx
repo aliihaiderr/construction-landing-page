@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 const Features = () => {
   return (
-    <div className="lg:flex h-screen">
+    <div className="lg:flex lg:h-screen">
       {/* Left side Panel */}
       <div className="max-w-full py-40 object-cover lg:w-2/5 lg:p-12 flex flex-col items-baseline bg-detail-image bg-cover"></div>
 

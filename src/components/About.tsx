@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    <div className="lg:flex h-screen">
+    <div className="lg:flex lg:h-screen">
       {/* Left side Panel */}
       <div className="max-w-full py-8 lg:w-2/5 lg: p-12 flex flex-col items-baseline bg-gray-800">
         <div className="flex flex-col gap-y-10 lg:p-8">

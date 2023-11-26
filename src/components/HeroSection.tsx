@@ -7,7 +7,7 @@ import { MdFoundation } from "react-icons/md";
 
 const HeroSection = () => {
   return (
-    <div className="lg:flex h-screen">
+    <div className="lg:flex lg:h-screen">
       {/* Left side Panel */}
       <div className="px-8 py-12 max-w-full mx-auto lg:w-2/3 lg:p-48 flex flex-col items-baseline bg-hero-image bg-cover">
         <h2 className="scroll-m-20 pb-2 font-bold tracking-wide leading-6 transition-colors first:mt-0 lg:leading-8">
