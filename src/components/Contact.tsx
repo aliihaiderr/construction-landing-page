@@ -33,7 +33,7 @@ const Contact = () => {
 
         {/* Right side Panel */}
         <div className="max-w-full lg:flex flex-col lg:w-1/3">
-          <div className="flex justify-center text-3xl w-full p-6 bg-gray-800 text-white gap-5">
+          <div className="flex justify-center text-3xl w-full p-3 lg:p-6 bg-gray-800 text-white gap-5">
             <span className="hover:text-red-600 cursor-pointer">
               <BiLogoYoutube />
             </span>
@@ -41,7 +41,7 @@ const Contact = () => {
               <BiLogoFacebook />
             </span>
           </div>
-          <div className="flex flex-col gap-4 mt-20 p-12 lg:p-24 text-gray-500">
+          <div className="flex flex-col gap-4 lg:mt-20 p-12 lg:p-24 text-gray-500">
             <h2 className="scroll-m-20 font-bold text-3xl pb-4 text-gray-800 tracking-wider leading-10 transition-colors first:mt-0">
               Reach Us
             </h2>
