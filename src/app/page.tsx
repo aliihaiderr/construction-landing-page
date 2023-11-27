@@ -1,9 +1,9 @@
-import HeroSection from "@/components/HeroSection"
-import Features from "@/components/Features"
-import LatestProjects from "@/components/LatestProjects"
-import About from "@/components/About"
-import Testimonials from "@/components/Testimonials"
-import Contact from "@/components/Contact"
+import HeroSection from "@/components/HeroSection";
+import Features from "@/components/Features";
+import LatestProjects from "@/components/LatestProjects";
+import About from "@/components/About";
+import Testimonials from "@/components/Testimonials";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
@@ -12,8 +12,8 @@ export default function Home() {
       <Features />
       <LatestProjects />
       <About />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contact />
     </>
-  )
+  );
 }
