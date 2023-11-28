@@ -49,26 +49,26 @@ const Contact = () => {
               <span>
                 <BiSolidMap />
               </span>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Main Market Phase 2 Ajwa City Sahiwal</p>
             </div>
             <div className="flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default">
               <span>
                 <BiSolidMap />
               </span>
-              <p>Lorem ipsum dolor sit amet consectetur,</p>
+              <p>20 K.M. Paijan Stop, Raiwind Road Lahore.</p>
             </div>
             <div className="flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default">
               <span>
                 <BiSolidPhone />
               </span>
-              <p>+92 33-302548</p>
+              <p>+92 323-6854958</p>
               <br />
             </div>
             <div className="flex items-center gap-x-3 font-medium text-base tracking-wide cursor-default">
               <span>
                 <MdEmail />
               </span>
-              <p>babafarid@gmail.com</p>
+              <p>babafaridconstructiondevel4007@gmail.com</p>
             </div>
             <div className="flex text-4xl gap-4">
               <span className="hover:text-red-600 cursor-pointer">
