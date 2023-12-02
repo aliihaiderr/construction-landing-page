@@ -28,7 +28,7 @@ const HeroSection = () => {
       </div>
 
       {/* Right Side Panel  */}
-      <div className="px-8 py-6 flex justify-center items-center lg:w-1/3 lg:px-16 lg:py-12 flex-col lg:items-baseline bg-[#F5AA0E]">
+      <div className="px-8 py-6 flex justify-center items-center md:px-14 lg:w-1/3 lg:px-16 lg:py-12 flex-col lg:items-baseline bg-[#F5AA0E]">
         <h2 className="scroll-m-20 pb-6 mt-6 text-3xl font-bold tracking-wide transition-colors lg:first:mt-16">
           Our Services
         </h2>
