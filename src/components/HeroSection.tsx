@@ -9,18 +9,18 @@ const HeroSection = () => {
   return (
     <div className="lg:flex lg:h-screen">
       {/* Left side Panel */}
-      <div className="px-8 py-12 max-w-full mx-auto lg:w-2/3 lg:p-48 flex flex-col items-baseline bg-hero-image bg-cover">
-        <h2 className="scroll-m-20 pb-2 font-bold tracking-wide leading-6 transition-colors first:mt-0 lg:leading-8">
-          <span className="text-5xl lg:text-6xl text-[#F5AA0E]">
+      <div className="px-8 py-12 max-w-md mx-auto sm:max-w-xl lg:w-2/3 lg:p-48 flex flex-col items-baseline bg-hero-image bg-cover">
+        <h2 className="scroll-m-20 font-bold tracking-wide leading-6 transition-colors first:mt-0 lg:leading-8">
+          <span className="text-4xl sm:text-5xl lg:text-6xl text-[#F5AA0E]">
             Baba Fareed
           </span>{" "}
           <br />{" "}
-          <span className="text-xl lg:text-3xl text-white">
+          <span className="text-xl sm:text-2xl lg:text-3xl text-white">
             {" "}
             Construction & Developers Company
           </span>
         </h2>
-        <p className="text-sm leading-5 mt-2 mb-6 text-gray-200 font-normal tracking-wide lg:leading-7 lg:text-base [&:not(:first-child)] ">
+        <p className="text-sm leading-5 mt-2 mb-4 sm:text-base text-gray-200 font-normal tracking-wide lg:leading-7 lg:text-base [&:not(:first-child)] ">
           Transforming Visions into Reality, Your Trusted Partner in
           Construction Excellence.
         </p>
@@ -28,7 +28,7 @@ const HeroSection = () => {
       </div>
 
       {/* Right Side Panel  */}
-      <div className="px-8 py-6 flex justify-center items-center md:px-14 lg:w-1/3 lg:px-16 lg:py-12 flex-col lg:items-baseline bg-[#F5AA0E]">
+      <div className="px-8 py-6 max-w-md mx-auto flex justify-center items-center sm:max-w-xl lg:w-1/3 lg:px-16 lg:py-12 flex-col lg:items-baseline bg-[#F5AA0E]">
         <h2 className="scroll-m-20 pb-6 mt-6 text-3xl font-bold tracking-wide transition-colors lg:first:mt-16">
           Our Services
         </h2>
